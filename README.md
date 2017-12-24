@@ -2,7 +2,7 @@
 
 class containing C code to use the main clipboard object of X11.
 
-90% of this code is borrowed from exebook's barebones implementation: https://github.com/exebook/x11clipboard
+~90% of this code is borrowed from exebook's barebones implementation: https://github.com/exebook/x11clipboard
  
 I have just added abstraction by merging everything into two simple and easy to use functions in one C++ class for my own use.
 
