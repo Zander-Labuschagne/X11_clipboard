@@ -1,6 +1,6 @@
 # X11_clipboard library
 
-class containing C code to use the main clipboard object of X11.
+class containing C code that abstracts the use of the main clipboard object of X11 to simplify the usage of copy and paste on a low and basic level.
 
 ~90% of this code is borrowed from exebook's barebones implementation: https://github.com/exebook/x11clipboard
  
